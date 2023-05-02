@@ -44,8 +44,8 @@ Step 5 : Test for the XOR patterns.
 
 ## PROGRAM
 ```
-Developed by Easwar J
-Register no  212221230024
+Developed by  : Bairav Skandan Loha
+Register no  212221230010
 ```
 
 ```
